@@ -58,7 +58,7 @@ input[type=file]:focus{outline:5px auto -webkit-focus-ring-color;outline-offset:
 .row:after,.row:before{display:table;content:" ";}
 .row:after{clear:both;}
 
-/* ! CSS Used from: Embedded
+/* ! CSS Used from: Embedded */
 .insight-jbp-button,.insight-jbp-button:hover,.insight-jbp-button:visited,button.btn-primary.insight-jbp-button:active,button.btn-primary.insight-jbp-button:disabled,span.btn-primary.insight-jbp-button:active,span.btn-primary.insight-jbp-button:disabled,.insight-jbp-button:focus,.insight-jbp-button:target,.insight-jbp-button:disabled{background-color:#444444;border-color:#444444;}
 .insight-jbp-button-font,.insight-jbp-button-font:hover,.insight-jbp-button-font:active,.insight-jbp-button-font:active:hover{color:#ffffff;}
-.insight-jbp-font,.insight-jbp-font:hover{color:#444444;} */
+.insight-jbp-font,.insight-jbp-font:hover{color:#444444;}
