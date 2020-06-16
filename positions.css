@@ -148,6 +148,10 @@ div.col-sm-1,div.col-sm-2,div.col-sm-3{padding:0px 2px;}
 .open>.dropdown-menu{display:block;}
 .btn .caret{margin-left:0;}
 
+#insight-jbp-list > table > tbody > tr > td > .col > .row.text-right:last-child {
+    display: none;
+}
+
 a{background-color:transparent;}
 a:active,a:hover{outline:0;}
 button,select{margin:0;font:inherit;color:inherit;}
