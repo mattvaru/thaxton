@@ -48,3 +48,7 @@ div.container.career-conainer {
     margin-bottom: 30px;
     font-size: 15px;
 }
+
+#insight-jbp-list > table > tbody > tr > td > .col > .row.text-right:last-child {
+    display: none;
+}
