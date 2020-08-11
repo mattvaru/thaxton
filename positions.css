@@ -113,24 +113,6 @@ select[multiple]{height:auto;}
 .bootstrap-select .dropdown-menu{min-width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
 .bootstrap-select .dropdown-menu>.inner:focus{outline:0!important;}
 .bootstrap-select .dropdown-menu.inner{position:static;float:none;border:0;padding:0;margin:0;border-radius:0;-webkit-box-shadow:none;box-shadow:none;}
-/*! CSS Used from: https://cdn.jsdelivr.net/gh/mattvaru/thaxton/thaxton-job-board.css */
-.insight-jbp-column-middle{display:none;}
-div.insight-jbp-column-right{font-size:15px;}
-div#insight-jbp-job-search.container-fluid,div.container-fluid{padding-left:2px;padding-right:2px;}
-div.col-sm-1,div.col-sm-2,div.col-sm-3{padding:0px 2px;}
-.insight-jbp-total-jobs{font-size:15px;}
-#insight-jbp-list > table > tbody > tr > td{padding-top:22px;padding-bottom:22px;}
-#insight-jbp-list > table > tbody > tr > td > .col > .row{margin-left:0px;margin-right:0px;}
-#insight-jbp-list > table > tbody > tr > td > .col > .row.text-right{display:flex;justify-content:flex-end;}
-/*! CSS Used from: Embedded */
-.insight-jbp-button,.insight-jbp-button:hover,.insight-jbp-button:visited,a.btn-primary.insight-jbp-button:active,button.btn-primary.insight-jbp-button:active,button.btn-primary.insight-jbp-button:disabled,.insight-jbp-button:focus,.insight-jbp-button:target,.insight-jbp-button:disabled,div#insight-jbp-pagination-container div.pagination-container ul.pagination li.active a,div#insight-jbp-pagination-container div.pagination-container ul.pagination li.active a:hover{background-color:#444444;border-color:#444444;}
-.insight-jbp-button-font,.insight-jbp-button-font:hover,.insight-jbp-button-font:active,.insight-jbp-button-font:active:hover,div#insight-jbp-pagination-container div.pagination-container ul.pagination li.active a,div#insight-jbp-pagination-container div.pagination-container ul.pagination li.active a:hover{color:#ffffff;}
-.insight-jbp-font,.insight-jbp-font:hover,div#insight-jbp-pagination-container div.pagination-container ul.pagination li a,div#insight-jbp-pagination-container div.pagination-container ul.pagination li a:hover{color:#444444;}
-.insight-jbp-fadein{animation:insight-jbp-fadein 0.75s;-moz-animation:insight-jbp-fadein 0.75s;-webkit-animation:insight-jbp-fadein 0.75s;}
-/*! CSS Used keyframes */
-@keyframes insight-jbp-fadein{from{opacity:0.5;}to{opacity:1;}}
-@-moz-keyframes insight-jbp-fadein{from{opacity:0.5;}to{opacity:1;}}
-@-webkit-keyframes insight-jbp-fadein{from{opacity:0.5;}to{opacity:1;}}
 
 /* custom declarations */
 .btn-default{color:#333;background-color:#fff;border-color:#ccc;}
